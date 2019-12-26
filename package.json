@@ -1,0 +1,34 @@
+{
+  
+"name": "neelavaishnavi2",
+ 
+ "version": "1.0.0",
+ 
+ "description": "MEAN FULL STACK DEV-WEEK2",
+ 
+ "main": "index.js",
+ 
+ "scripts": {
+  
+"start":"node index.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ 
+ "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neelavaishnavigupta/neelavaishnavi2.git"
+  },
+ 
+ "author": "",
+ 
+ "license": "ISC",
+ 
+ "bugs": {
+    "url": "https://github.com/neelavaishnavigupta/neelavaishnavi2/issues"
+  },
+  "homepage": "https://github.com/neelavaishnavigupta/neelavaishnavi2#readme",
+ 
+ "dependencies": {
+    "express": "^4.17.1"
+  }
+}
